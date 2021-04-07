@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Yankees</string>
+    <string name="team_name">New York Yankees</string>
+
+    <string name="team_history">The New York Yankees are a major league baseball (MLB) team based in The Bronx, New York. They’re one of two of New York City’s MLB teams (the other being the New York Mets) and are one of the most successful sports teams in the world. They’ve won 27 World Series championships and 18 division titles – both records within the MLB. Forty-four of their players are in the National Baseball Hall of Fame, along with 11 of their managers. Beloved by New Yorkers and hated by Red Sox fans, no matter how you feel about them, the New York Yankees are iconic.</string>
+
+    <string name="team_name_label">Team Name:</string>
+    <string name="team_history_label">Team History:</string>
+    <string name="team_logo_label">Team Logo:</string>
+
+    <string name="squad_button">CLICK FOR PLAYERS LIST</string>
+
+
+    <string name="player_name_1">Yankees</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>

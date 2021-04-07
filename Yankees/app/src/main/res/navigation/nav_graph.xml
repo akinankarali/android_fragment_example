@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto" android:id="@+id/nav_graph"
+    app:startDestination="@id/squadFragment">
+
+    <fragment
+        android:id="@+id/squadFragment"
+        android:name="com.example.yankees.SquadFragment"
+        android:label="SquadFragment" >
+        <action
+            android:id="@+id/action_squadFragment_to_squadListFragment"
+            app:destination="@id/squadListFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/squadListFragment"
+        android:name="com.example.yankees.SquadListFragment"
+        android:label="SquadListFragment" />
+</navigation>
